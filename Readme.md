@@ -4,5 +4,4 @@ Here I am uploading the exercises that I do on deep learning
 regards, 
 
 Faizan Shakeel 
-
 Data Scientist (Domain: FinTech, EduTech, BioTech-healthcare; Exploring: Entertainment, Arts, Biology and defense and telecommunication)
