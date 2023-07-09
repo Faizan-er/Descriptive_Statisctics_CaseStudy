@@ -1,6 +1,6 @@
 # Hands-on with Deep Learning-Phase 1
 Here I am uploading the exercises that I do on deep learning
---
+---
 regards, 
 
 Faizan Shakeel 
